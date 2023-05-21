@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Module16.Application\Module16.Application.csproj" />
     <ProjectReference Include="..\Module16\Module16.Application.csproj" />
   </ItemGroup>
 
